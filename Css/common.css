@@ -1,0 +1,11 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+p {
+    font-family: 'PT Sans', sans-serif;
+}
+a {
+    text-decoration: none;
+}

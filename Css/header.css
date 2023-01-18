@@ -1,0 +1,39 @@
+.worktimes {
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+}
+.times p {
+  padding-left: 10px;
+  color: #969696;
+  font-size: 12px;
+  display: inline;
+}
+
+.register img {
+  width: 20px;
+}
+.register p {
+  padding-left: 10px;
+  font-size: 12px;
+  color: #969696;
+  display: inline;
+}
+.navigations {
+    display: flex;
+    justify-content: space-between;
+    background-color: #0f0f0f;
+    padding:20px;
+}
+.navs {
+    display: flex;
+    align-items: center;
+}
+.navs a {
+    padding: 20px 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #969696;
+}
